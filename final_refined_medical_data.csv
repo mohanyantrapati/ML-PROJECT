@@ -1,0 +1,333 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,Sugar Level,Blood Pressure Level,Drug Names,Drug Dosage,Personalized Treatment
+Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,High,Low,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Low,Normal,"Antihistamines, Paracetamol",10 mg Cetirizine QD,"Antihistamines (Cetirizine 10 mg QD), Steam inhalation, Hydration, Rest"
+Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,High,Normal,"Hydrocortisone, Antihistamines",1% Hydrocortisone cream BID,"Moisturizers (Emollients), Hydrocortisone 1% cream BID, Avoid soaps"
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,High,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Low,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,Low,Normal,"Hydrocortisone, Antihistamines",1% Hydrocortisone cream BID,"Moisturizers (Emollients), Hydrocortisone 1% cream BID, Avoid soaps"
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,High,Normal,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Normal,Normal,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Hyperthyroidism,No,Yes,No,No,28,Female,High,Normal,Negative,Low,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,High,High,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,High,Low,"Antihistamines, Paracetamol",10 mg Cetirizine QD,"Antihistamines (Cetirizine 10 mg QD), Steam inhalation, Hydration, Rest"
+Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,Normal,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,Low,High,"Hydrocortisone, Antihistamines",1% Hydrocortisone cream BID,"Moisturizers (Emollients), Hydrocortisone 1% cream BID, Avoid soaps"
+Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,High,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Normal,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,High,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,Low,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Bronchitis,Yes,No,Yes,Yes,30,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Eczema,Yes,No,No,No,30,Male,High,High,Positive,Low,High,"Hydrocortisone, Antihistamines",1% Hydrocortisone cream BID,"Moisturizers (Emollients), Hydrocortisone 1% cream BID, Avoid soaps"
+Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Influenza,Yes,No,Yes,No,30, ,High,Normal,Positive,Low,High,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Normal,Normal,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,Normal,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,Low,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,Normal,High,"Antihistamines, Paracetamol",10 mg Cetirizine QD,"Antihistamines (Cetirizine 10 mg QD), Steam inhalation, Hydration, Rest"
+Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Asthma,No,No,Yes,Yes,35,Female,Normal,High,Negative,High,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Low,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,High,High,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,Normal,High,"Antihistamines, Paracetamol",10 mg Cetirizine QD,"Antihistamines (Cetirizine 10 mg QD), Steam inhalation, Hydration, Rest"
+Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,Normal,High,"Hydrocortisone, Antihistamines",1% Hydrocortisone cream BID,"Moisturizers (Emollients), Hydrocortisone 1% cream BID, Avoid soaps"
+Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Asthma,No,No,Yes,Yes,35,Male,High,Normal,Positive,Normal,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Normal,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Depression,No,No,Yes,No,35,Female,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,High,Low,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hyperthyroidism,Yes,No,Yes,No,35,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Migraine,Yes,No,No,No,35,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Spina Bifida,No,No,Yes,No,35,Female,High,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,High,Low,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Depression,No,No,No,No,38,Female,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,High,Normal,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,High,Low,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,Low,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Diabetes,Yes,No,No,No,40,Female,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,High,Low,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Normal,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,High,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,Low,High,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Low,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Low,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,Normal,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,Low,High,"Antihistamines, Paracetamol",10 mg Cetirizine QD,"Antihistamines (Cetirizine 10 mg QD), Steam inhalation, Hydration, Rest"
+Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,High,Normal,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Diabetes,No,Yes,Yes,No,42,Male,High,Normal,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypothyroidism,Yes,No,Yes,No,42, ,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Melanoma,Yes,No,Yes,No,45,Male,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Migraine,No,No,No,No,45,Female,Low,Normal,Negative,Normal,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Stroke,No,No,Yes,No,45,Male,High,Normal,Negative,Low,Normal, ,Consult Doctor,Consult specialist for treatment
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,High,Low,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,High,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Asthma,No,Yes,No,Yes,45,Male,Normal,Normal,Positive,Normal,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Crohn's Disease,Yes,Yes,Yes,No,45, ,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Depression,No,No,Yes,No,45,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoporosis,No,Yes,Yes,No,45,Female,High,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Scoliosis,No,No,No,No,45,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hypertension,No,No,No,No,48,Female,Low,High,Negative,Low,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,High,Low,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,High,Low,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,Low,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,Low,Low,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,Low,Normal,"Salbutamol, Corticosteroids",400 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Ebola Virus,Yes,Yes,Yes,Yes,50, ,High,Normal,Positive,High,Normal, ,Consult Doctor,Consult specialist for treatment
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Eczema,No,Yes,No,No,50,Female,High,High,Positive,High,High,"Hydrocortisone, Antihistamines",1% Hydrocortisone cream BID,"Moisturizers (Emollients), Hydrocortisone 1% cream BID, Avoid soaps"
+Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Lyme Disease,No,No,No,No,50,Male,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Lyme Disease,Yes,No,Yes,No,50,Male,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,High,Normal,"Antihistamines, Paracetamol",10 mg Cetirizine QD,"Antihistamines (Cetirizine 10 mg QD), Steam inhalation, Hydration, Rest"
+Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Influenza,No,No,Yes,Yes,56,Male,High,High,Positive,Low,High,"Oseltamivir, Paracetamol",75 mg Oseltamivir BID,"Oseltamivir 75 mg BID for 5 days, Paracetamol for fever, Rest, Fluids"
+Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Breast Cancer,No,No,Yes,No,60, ,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Measles,Yes,No,No,No,60,Female,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Low,High,"Salbutamol, Corticosteroids",200 mcg Salbutamol,"Salbutamol inhaler 2 puffs PRN, Inhaled corticosteroids (Budesonide 200 mcg BID), Avoid triggers"
+Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Hypertension,No,No,No,No,60,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Pancreatitis,Yes,No,Yes,No,60,Female,High,Normal,Positive,Low,High, ,Consult Doctor,Consult specialist for treatment
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Bladder Cancer,No,No,Yes,No,65,Male,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Dementia,No,No,Yes,No,65,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,High,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Low,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Normal,Normal,"General Multivitamins, Pain Relievers",Consult Doctor,Consult specialist for treatment
+Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,High,Normal,"Metformin, Insulin",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Normal,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Low,High,"Amlodipine, Lisinopril",Consult Doctor,Consult specialist for treatment

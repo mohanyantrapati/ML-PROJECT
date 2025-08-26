@@ -1,0 +1,86 @@
+i have developed an intelligent restaurant recommendation system using Streamlit, which suggests top-rated restaurants based on user preferences and location.
+✅ Key Features:
+Real-time Location Detection:
+Integrated browser-based geolocation using streamlit-js-eval.
+Automatically detects the user's city using latitude and longitude.
+Uses reverse geocoding via OpenStreetMap (Nominatim API) to convert coordinates to a city name.
+Manual Input Option:
+Provides flexibility by allowing users to manually enter their city if they prefer.
+TF-IDF Based Content Recommendation:
+Combines multiple features like Cuisines, Price range, Aggregate rating, and City into a single text feature.
+Uses TF-IDF Vectorization and Cosine Similarity to match user preferences with the best available restaurants.
+Interactive Web Interface:
+Built entirely in Python using Streamlit.
+Responsive sidebar controls for cuisine preference, minimum rating, and price range.
+Displays the top 5 recommended restaurants based on preference and rating.
+Error Handling and UX Enhancements:
+Safe handling of JSON errors and API failures.
+Feedback messages and UI prompts for better user interaction.
+
+
+
+answer
+
+
+Your code is now upgraded into a full Streamlit-based intelligent restaurant recommendation system, complete with:
+
+Real-time location detection
+
+Manual city input fallback
+
+TF-IDF-based matching
+
+Interactive web UI with sliders and dropdowns
+
+You're ready to run this in Streamlit! Just make sure you've installed:
+
+bash
+Copy
+Edit
+pip install streamlit streamlit-js-eval scikit-learn requests
+Let me know if you want to add features like filtering by delivery availability or sorting by votes!
+
+
+
+
+
+
+You said:
+then tell me how to execute it
+
+
+ChatGPT said:
+To run your Streamlit-based intelligent restaurant recommender, just follow these steps:
+
+✅ 1. Install Required Packages
+Make sure you have the necessary libraries installed. Run this in your terminal:
+
+bash
+Copy
+Edit
+pip install streamlit streamlit-js-eval scikit-learn pandas requests
+✅ 2. Save the Script
+Save your code (from the canvas) in a file, e.g., app.py.
+
+Make sure Dataset .csv is in the same folder as app.py.
+
+✅ 3. Run the App
+In your terminal, run:
+
+bash
+Copy
+Edit
+streamlit run app.py
+✅ 4. Open in Browser
+Streamlit will automatically open a local browser tab. If not, visit the local URL shown in the terminal, like:
+
+arduino
+Copy
+Edit
+http://localhost:8501
+📌 Note
+For geolocation to work, make sure your browser allows location access.
+
+You can edit the detected city or input it manually in the sidebar.
+
+Let me know if you'd like to deploy this online (e.g., using Streamlit Cloud or Render)!
